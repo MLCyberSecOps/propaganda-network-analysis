@@ -9,4 +9,4 @@ Computationally visualizing and analyzing  propaganda network created amid a glo
 
 ## References
 
-* **Department of State** - *  Special Envoy Briefing * - [Global Engagement Center Update](https://www.state.gov/briefing-with-special-envoy-lea-gabrielle-global-engagement-center-update-on-prc-efforts-to-push-disinformation-and-propaganda-around-covid/)
+* **United States Department of State** - *  Special Envoy Briefing * - [Global Engagement Center Update](https://www.state.gov/briefing-with-special-envoy-lea-gabrielle-global-engagement-center-update-on-prc-efforts-to-push-disinformation-and-propaganda-around-covid/)
