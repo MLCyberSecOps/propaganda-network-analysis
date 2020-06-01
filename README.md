@@ -1,2 +1,10 @@
 # propaganda-network-analysis
-Computationally analyzing  propaganda network created amid a global pandemic and attempting to influence perceptions at a global scale- Proof of Concept
+Computationally analyzing  propaganda network created amid a global pandemic and influencing perceptions at a global scale- Proof of Concept.
+
+## Authors
+
+* **Pradeep Kumar** - * Initial work* - [MLCyberSecOps](https://github.com/MLCyberSecOps)
+
+## References
+
+* **Department of State** - *  Special Envoy Briefing * - [Global Engagement Center Update](https://www.state.gov/briefing-with-special-envoy-lea-gabrielle-global-engagement-center-update-on-prc-efforts-to-push-disinformation-and-propaganda-around-covid/)
