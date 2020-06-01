@@ -1,5 +1,7 @@
 # propaganda-network-analysis
-Computationally analyzing  propaganda network created amid a global pandemic and influencing perceptions at a global scale- Proof of Concept.
+Computationally visualizing and analyzing  propaganda network created amid a global pandemic and influencing perceptions at a global scale- Proof of Concept.
+
+![](/PropandaNetwork-1.png)
 
 ## Authors
 
